@@ -36,7 +36,6 @@ export async function listJobs() {
     return [];
   }
 }
-
 export async function getJob(id) {
   try {
     const res = await fetch(`${API}/jobs/${id}`);
