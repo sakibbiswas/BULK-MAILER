@@ -1,0 +1,44 @@
+{
+  "jobs": [
+    {
+      "id": "job_1755510420679",
+      "subject": "Hello {{name}}",
+      "from": "Sazzadur-Rahman<sakibsorna5@gmail.com>",
+      "createdAt": "2025-08-18T09:47:00.680Z",
+      "total": 3,
+      "sent": 0,
+      "recipients": [
+        {
+          "email": "sazzadurrahman3147@gmail.com",
+          "data": {
+            "email": "sazzadurrahman3147@gmail.com",
+            "name": "Sazzadur"
+          },
+          "status": "pending",
+          "attempts": 0,
+          "error": null
+        },
+        {
+          "email": "rezabiswas4@gmail.com",
+          "data": {
+            "email": "rezabiswas4@gmail.com",
+            "name": "Razi"
+          },
+          "status": "pending",
+          "attempts": 0,
+          "error": null
+        },
+        {
+          "email": "sakibsorna5@gmail.com",
+          "data": {
+            "email": "sakibsorna5@gmail.com",
+            "name": "Sakib"
+          },
+          "status": "pending",
+          "attempts": 0,
+          "error": null
+        }
+      ]
+    }
+  ]
+}
